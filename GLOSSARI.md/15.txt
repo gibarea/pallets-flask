@@ -1,0 +1,1 @@
+GitHub Actions: Automatización por eventos que agiliza la gestión del proyecto (ej. autoasignar prioridades o mover tarjetas al cambiar el código).
