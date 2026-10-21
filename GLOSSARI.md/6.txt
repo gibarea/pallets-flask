@@ -1,0 +1,1 @@
+Vista de Tabla (Table View): Formato similar a una hoja de cálculo que permite ordenar, filtrar, agrupar y editar en masa grandes volúmenes de tareas y sus campos personalizados.
