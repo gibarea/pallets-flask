@@ -1,0 +1,1 @@
+Flujos de Trabajo Automatizados (Workflows): Reglas integradas en GitHub Projects que automatizan acciones, como mover una incidencia a la columna "En progreso" cuando se abre una solicitud de extracción relacionada.
