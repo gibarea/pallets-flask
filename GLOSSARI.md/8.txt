@@ -1,0 +1,1 @@
+Iteración / Sprint (Iteration Field): Campo especial en GitHub Projects que agrupa tareas en bloques de tiempo fijos (por ejemplo, semanas o quincenas) para planificar ciclos de desarrollo ágil.
