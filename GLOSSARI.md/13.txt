@@ -1,0 +1,1 @@
+Hito (Milestone): Contenedor de incidencias vinculado a un repositorio específico que se utiliza para realizar el seguimiento del progreso hacia un objetivo o una fecha de entrega concreta.
