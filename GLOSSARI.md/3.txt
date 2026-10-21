@@ -1,0 +1,1 @@
+Incidencia (Issue): Unidad básica de trabajo en GitHub que se utiliza para registrar ideas, tareas, errores (bugs) o requisitos del proyecto dentro de un repositorio.
