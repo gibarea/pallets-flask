@@ -1,1 +1,1 @@
-
+GitHub Projects: Herramienta flexible y personalizable integrada en GitHub que permite planificar, realizar el seguimiento y gestionar el trabajo directamente junto al código, las incidencias y las solicitudes de extracción.
