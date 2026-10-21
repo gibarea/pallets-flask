@@ -1,0 +1,1 @@
+Épica (Epic): Una gran historia de usuario o bloque de trabajo que se desglosa en tareas más pequeñas (incidencias) y se puede gestionar en GitHub enlazando múltiples incidencias padre e hijo.
