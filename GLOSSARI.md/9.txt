@@ -1,0 +1,1 @@
+Gráfico de Trabajo Pendiente (Burndown Chart): Métrica visual (disponible en los Insights de GitHub) que muestra el trabajo restante frente al tiempo disponible en una iteración.
