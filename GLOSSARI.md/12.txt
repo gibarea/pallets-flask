@@ -1,0 +1,1 @@
+Puntos de Historia / Esfuerzo (Story Points): Unidad de medida personalizada que los equipos añaden a las incidencias para estimar la complejidad, el esfuerzo o el tiempo relativo que requiere una tarea.
