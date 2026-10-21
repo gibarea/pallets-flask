@@ -1,0 +1,1 @@
+Solicitud de Extracción (Pull Request / PR): Propuesta de cambios en el código que, en GitHub Projects, se puede rastrear como una tarea activa para medir el progreso del desarrollo técnico.
