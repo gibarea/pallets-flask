@@ -1,0 +1,2 @@
+Gráficos e Informes (Insights): Panel de análisis integrado en GitHub Projects que permite crear diagramas de barras, líneas o áreas para monitorizar la velocidad del equipo y el estado general del proyecto.
+
